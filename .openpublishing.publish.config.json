@@ -13,6 +13,20 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
+    },
+    {
+      "docset_name": "E2E_PROD_TestSync_PR_1207_DS02",
+      "build_source_folder": "E2E_PROD_TestSync_PR_1207_DS02",
+      "build_output_subfolder": "E2E_PROD_TestSync_PR_1207_DS02",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
